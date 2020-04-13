@@ -1,0 +1,17 @@
+{
+"companyName": "Mayola Tikaka",
+"productName": "Moving With Microfibres",
+"productVersion": "1.0",
+"dataUrl": "Moving with Microfibres.data.unityweb",
+"asmCodeUrl": "Moving with Microfibres.asm.code.unityweb",
+"asmMemoryUrl": "Moving with Microfibres.asm.memory.unityweb",
+"asmFrameworkUrl": "Moving with Microfibres.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.6f1"
+}
